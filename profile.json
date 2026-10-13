@@ -1,0 +1,106 @@
+{
+  "personal": {
+    "fullName": "Dhanshri Kasliwal",
+    "title": "B.Tech CSE Student",
+    "tagline": "Passionate first-year Computer Science student with a focus on fundamental web development and creative graphic design.",
+    "email": "dhanashrikasliwal31@gmail.com",
+    "hometown": "Malegaon, Nashik",
+    "currentLocation": "Jaipur (studying and living here for B.Tech)",
+    "location": "Jaipur, India",
+    "hometownState": "Maharashtra, India",
+    "careerGoal": "Aiming to build a successful career in Big Tech companies and Top-Tier Consulting firms",
+    "summary": "First-year Computer Science & Engineering undergraduate with 1+ years of active learning, foundational web design, and hands-on creative work. Focused on mastering core computing principles and creating clean digital experiences."
+  },
+  "education": [
+    {
+      "degree": "Bachelor of Technology in Computer Science and Engineering (B.Tech CSE)",
+      "currentYear": "First Year (FY)",
+      "institution": "Engineering Institute, Jaipur",
+      "location": "Jaipur, Rajasthan",
+      "period": "2024 - 2028 (Expected)",
+      "highlights": [
+        "Core coursework in Computing Fundamentals, Problem Solving, and Engineering Basics",
+        "Participating actively in campus technical and creative initiatives",
+        "Balancing academic studies with practical project building"
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "role": "Continuous Learner & Hands-on Builder",
+      "organization": "Self-Directed Tech & Creative Practice",
+      "duration": "1+ Years (2024 - Present)",
+      "type": "Skill Building & Project Development",
+      "description": "Engaged in active learning, upskilling, and hands-on project building in technology and design.",
+      "achievements": [
+        "Built responsive web projects using semantic HTML and CSS layouts",
+        "Designed visual graphics, promotional media, and digital banners using Canva",
+        "Explored modern tools and basic workflows to solve practical problems",
+        "Practiced clean coding and continuous self-learning"
+      ]
+    }
+  ],
+  "skills": [
+    { "name": "HTML", "category": "Web Basics", "level": "Intermediate", "score": 85 },
+    { "name": "CSS", "category": "Styling & Layout", "level": "Intermediate", "score": 80 },
+    { "name": "Graphic Design", "category": "Creative Design", "level": "Intermediate", "score": 85 },
+    { "name": "Canva", "category": "Design Tools", "level": "Proficient", "score": 90 }
+  ],
+  "projects": [
+    {
+      "id": "ecommerce-store",
+      "title": "E-Commerce Store",
+      "category": "Web Development",
+      "description": "Built a functional e-commerce web store showcasing products and a shopping interface.",
+      "technologies": ["HTML", "CSS", "JavaScript"],
+      "highlights": [
+        "Product catalog with responsive card layout",
+        "Interactive shopping cart interface and item calculation",
+        "Clean, intuitive design adapted for desktop and mobile"
+      ],
+      "details": "A responsive web store created to showcase product listings, interactive shopping cart management, and modern user interface styling. Built using clean HTML structure and modern CSS layout techniques.",
+      "link": "#"
+    }
+  ],
+  "certifications": [
+    {
+      "title": "Fundamentals of Computing",
+      "issuer": "Coursera",
+      "issued": "Completed",
+      "description": "Foundational course on computing principles, computational problem-solving, and software basics.",
+      "badge": "Coursera Certified"
+    }
+  ],
+  "achievements": [
+    {
+      "title": "JU Social Competition",
+      "role": "Participant",
+      "event": "JU Social",
+      "location": "Jaipur",
+      "description": "Participated in JU Social event showcasing collaborative teamwork, social engagement, and creative ideas."
+    }
+  ],
+  "interests": [
+    {
+      "title": "Dancing",
+      "icon": "music",
+      "description": "Passionate about rhythm, movement, and performance arts, bringing energy and discipline."
+    },
+    {
+      "title": "Content Creation",
+      "icon": "video",
+      "description": "Creating aesthetic social content, short-form visuals, and engaging digital media."
+    },
+    {
+      "title": "Exploring New Technologies",
+      "icon": "sparkles",
+      "description": "Always curious about new tech developments, AI tools, and creative digital trends."
+    }
+  ],
+  "stats": [
+    { "label": "Years Active Learning", "value": "1+" },
+    { "label": "Hands-on Projects", "value": "1+" },
+    { "label": "Current Degree", "value": "B.Tech CSE" },
+    { "label": "Target Industry", "value": "Big Tech & Consulting" }
+  ]
+}
